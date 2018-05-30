@@ -1,0 +1,19 @@
+# .gitignore for maven 
+target/
+.settings
+
+# web application files
+#/web-app/WEB-INF
+ 
+# IDE support files
+.classpath
+.launch
+.project
+.idea
+
+
+# Mac
+.DS_Store
+*.iml
+*.ipr
+*.iws
